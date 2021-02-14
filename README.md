@@ -45,11 +45,15 @@ The [data provided by Citibike](https://www.citibikenyc.com/system-data) has inf
 
 ## Observations
 
+![usertype](Images/user.png)
+
 #### Total Users:
 
 -Total number of rides is significantly higher in NYC with a total of 1,088,929 rides.  JC has a total number of 11,694 rides.
 
 -In both JC and NYC, monthly subscribers make up the majority of users who took rides this month.
+
+![avg trip](Images/AvgDailyTrip.png)
 
 #### Average Daily Trip by Gender and Usertype:
 
@@ -61,6 +65,8 @@ The [data provided by Citibike](https://www.citibikenyc.com/system-data) has inf
 
 -Midweek is the most popular time to ride.
 
+![age](Images/age.png)
+
 #### Total Rides by Age:
 
 -In both NYC and JC riders 50-59 make up the majority of the customers.
@@ -71,6 +77,8 @@ The [data provided by Citibike](https://www.citibikenyc.com/system-data) has inf
 
 -Most elderly riders are subscribers.  
 
+![JC map](Images/nj_map.png)
+
 #### Jersey City: Start and End Stations
 
 -JC has significantly less stations than NYC.
@@ -79,7 +87,9 @@ The [data provided by Citibike](https://www.citibikenyc.com/system-data) has inf
 
 -The popularity of these stations are also concentrated in areas with high median income.
 
--Some popular JC ending stations are actually located in NYC near popular commuter locations such as Port Authority and downtown piers. 
+-Some popular JC ending stations are actually located in NYC near popular commuter locations such as Port Authority and downtown piers.
+
+![NY map](Images/ny_map.png) 
 
 #### New York: Start and End Stations
 
