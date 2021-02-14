@@ -1,0 +1,21 @@
+age,usertype,count
+null,Subscriber,593
+null,Customer,5
+90-94,Subscriber,161
+90-94,Customer,15
+80-89,Subscriber,1749
+80-89,Customer,12
+70-79,Subscriber,11078
+70-79,Customer,161
+60-69,Subscriber,63167
+60-69,Customer,982
+50-59,Subscriber,152031
+50-59,Customer,78412
+40-49,Subscriber,172654
+40-49,Customer,7705
+30-39,Subscriber,295343
+30-39,Customer,29258
+21-29,Subscriber,203996
+21-29,Customer,42351
+Under 21,Subscriber,19837
+Under 21,Customer,9409

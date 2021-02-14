@@ -1,0 +1,14 @@
+age,usertype,count
+70-79,Subscriber,44
+60-69,Subscriber,709
+60-69,Customer,7
+50-59,Customer,1253
+50-59,Subscriber,1220
+40-49,Subscriber,1523
+40-49,Customer,93
+30-39,Subscriber,3764
+30-39,Customer,399
+21-29,Subscriber,2049
+21-29,Customer,500
+Under 21,Subscriber,95
+Under 21,Customer,38
