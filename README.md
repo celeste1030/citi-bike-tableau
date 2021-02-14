@@ -1,12 +1,12 @@
 # citi-bike-tableau
 
-#Jersey City vs New York City
+# Jersey City vs New York City
 
 Created by [Celeste Muniz - Lithgow](https://github.com/celeste1030)
 
 ## Table of Contents
 * [About](#about)
-* [How to View](#dhow-to-view)
+* [How to View](#how-to-view)
 * [Data Clean Up](#data-clean-up)
 * [Observations](#observations)
 * [Technologies](#technologies)
@@ -17,9 +17,18 @@ A lot can change when you cross the Hudson.
 
 Here are some visuals and observations based on the latest Citibike data (December 2020) for Jersey City and New York City.
 
+## How to View
+
+1. Go to this [Tableau Public Link:](https://public.tableau.com/profile/celeste.m2243#!/vizhome/citibike_hw_16128210087790/CitiBikeDEC2020)
+https://public.tableau.com/profile/celeste.m2243#!/vizhome/citibike_hw_16128210087790/CitiBikeDEC2020
+2. Scroll down to the lower right hand side of the slide and click "Full Screen" mode.
+![Full Screen](Images/fullscreen.png)
+3. Start with CitiBikeDEC2020 story and view my presentation.
+
+
 ## Data Clean Up
 
-The data provided by Citibike has information for each ride: trip duration in seconds, station id's, station names, bike id, start/ end times, birth year, gender, and membership level (usertype). Using jupyter notebook,  I made smaller csv files focused on specific attributes that would help me tell a visual story.
+The [data provided by Citibike](https://www.citibikenyc.com/system-data) has information for each ride: trip duration in seconds, station id's, station names, bike id, start/ end times, birth year, gender, and membership level (usertype). Using jupyter notebook,  I made smaller csv files focused on specific attributes that would help me tell a visual story.
 
 ##### Csv files:
 
