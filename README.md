@@ -100,7 +100,7 @@ The [data provided by Citibike](https://www.citibikenyc.com/system-data) has inf
 
 ------------------------------------------------------------------------
 
-![NY map](Images/ny_map.png) 
+![NY map](Images/ny_map.png)
 
 #### New York: Start and End Stations
 
