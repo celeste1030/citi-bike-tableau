@@ -15,10 +15,10 @@ Created by [Celeste Muniz - Lithgow](https://github.com/celeste1030)
 
 ## About
 
-A lot can change when you cross the Hudson.  
+This is a tale of two cities on either side of the Hudson River. **Citibike** is available in Jersey City and New York, giving people a convenient and eco-friendly option for traveling locally.
 
-Here are some visuals and observations based on the latest Citibike data (December 2020) for Jersey City and New York City.
-
+Using the latest Citibike trip history data ([December 2020](https://s3.amazonaws.com/tripdata/index.html)) for Jersey City and New York City, I've analyzed the use of Citibike in both locations.  Utilizing Tableau Public, I've created an interactive visual story of my observations.    
+ 
 ## How to View
 
 1. Go to this [Tableau Public Link:](https://public.tableau.com/profile/celeste.m2243#!/vizhome/citibike_hw_16128210087790/CitiBikeDEC2020)
